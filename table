@@ -1,0 +1,362 @@
+<div class="kt-portlet div-relative" id="kt_page_portlet">
+        <div class="kt-portlet__body">
+                    <div id="order-rdatatable">
+                
+        
+
+    
+    <div id="rtable_00000000582f3ca50000000024ee65c1">
+        <div class="rtable-data table-responsive">
+            <div id="DataTables_Table_0_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer"><div class="top"><div class="dataTables_info" id="DataTables_Table_0_info" role="status" aria-live="polite">1 do 2 z 2 rekordów <span class="select-info"><span class="select-item">Opcje dla 0 wybranych</span></span></div><div class="rtable-multiselect" id="rtable_00000000582f3ca50000000024ee65c1_multiaction" data-button-group-initialized="1">
+            <div class="btn-group">
+                            <div class="dropdown">
+                    <button disabled="disabled" data-toggle="dropdown" aria-expanded="false" class="btn btn-sm dropdown-toggle btn-primary disabled">Export</button>
+
+
+                    <div class="dropdown-menu" role="menu">
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportXls/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        XLS - zamówienia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportXlsProduct/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        XLS - zamówienia z produktami
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportXlsPutAway/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        XLS - produkty do odłożenia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportCsv/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        CSV - zamówienia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportCsvProduct/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        CSV - zamówienia z produktami
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportCsvPutAway/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        CSV - produkty do odłożenia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportCsvProductWithPricePucharse/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        CSV - zamówienia z produktami i ceną zakupu
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportXlsProductWithPricePucharse/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        XLS - zamówienia z produktami i ceną zakupu
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                            </div>
+                </div>
+                    </div><!--[BtnGroup::placeholder]-->
+            <div class="btn-group">
+                            <div class="dropdown">
+                    <button disabled="disabled" data-toggle="dropdown" aria-expanded="false" class="btn btn-sm dropdown-toggle btn-primary disabled">Drukuj</button>
+
+
+                    <div class="dropdown-menu" role="menu">
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/detailsPdf/?mode=1">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Wydruk szczegółowy
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/detailsPdf/?mode=2">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Wydruk wysyłkowy
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/exportPdfPutAway/?mode=3">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Produkty do odłożenia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                            </div>
+                </div>
+                    </div><!--[BtnGroup::placeholder]-->
+            <div class="btn-group">
+                            <div class="dropdown">
+                    <button disabled="disabled" data-toggle="dropdown" aria-expanded="false" class="btn btn-sm dropdown-toggle btn-primary disabled">Operacje</button>
+
+
+                    <div class="dropdown-menu" role="menu">
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/merge/">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Łączenie zamówień
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/noteInternal/" data-type="ajax" data-form-name="order_update">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Wiadomość wewnętrzna
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/allegroRefund/" data-type="ajax" data-form-name="order_update">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Allegro - zwrot płatności
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/allegroCommissionRefund/" data-type="ajax" data-form-name="order_update">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Allegro - zwrot prowizji
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                            </div>
+                </div>
+                    </div><!--[BtnGroup::placeholder]-->
+            <div class="btn-group">
+                            <div class="dropdown">
+                    <button disabled="disabled" data-toggle="dropdown" aria-expanded="false" class="btn btn-sm dropdown-toggle btn-primary disabled">Status</button>
+
+
+                    <div class="dropdown-menu" role="menu">
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=2">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Nowy
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=5">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Niepotwierdzone
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=26">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Niezapłacone
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=30">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Poczekalnia
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=8">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        W realizacji
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=11">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Do wysłania
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=29">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Łukasz do wysłania
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=14">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Wysłane
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=22">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Wystawiono dokument
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                                    
+                            <a class="dropdown-item" href="javascript:void(0);" data-href="/order/order/multi-action/changeStatus/?status=20">
+                                <div class="d-flex flex-row align-items-center" style="width: 100%;">
+                                    <div class="pr-2 mr-auto">
+                                        Anulowane
+                                    </div>
+                                                                    </div>
+                            </a><!--[Btn:placeholder]-->
+                                            </div>
+                </div>
+                    </div><!--[BtnGroup::placeholder]-->
+            <div class="btn-group">
+            
+                                                    
+                <button type="button" class="btn btn-sm btn-labeled btn-primary disabled" data-href="/order/packing-assistant/modal-init/" disabled="disabled">
+                    Pakuj
+                </button><!--[Btn:placeholder]-->
+                                                    </div><!--[BtnGroup::placeholder]-->
+            <div class="btn-group">
+            
+                                                    
+                <button type="button" class="btn btn-sm btn-labeled btn-primary disabled" data-href="/warehouse/shipment/multi-action/multiShipment/" disabled="disabled">
+                    Przesyłki
+                </button><!--[Btn:placeholder]-->
+                                                    </div><!--[BtnGroup::placeholder]-->
+    </div><!--[BtnGroup::placeholder]--></div><div id="DataTables_Table_0_processing" class="dataTables_processing card" style="display: none;"><img src="data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibGRzLXBhbGV0dGUtcmluZyIgd2lkdGg9IjgwcHgiIGhlaWdodD0iODBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiPjxnIHRyYW5zZm9ybT0icm90YXRlKDE1MCA1MCA1MCkiPjxwYXRoIGQ9Ik04MCA1MCBBMzAgMzAgMCAwIDEgNTkuMjcwNTA5ODMxMjQ4NDI1IDc4LjUzMTY5NTQ4ODg1NDYxIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmY2IiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNNTkuMjcwNTA5ODMxMjQ4NDI1IDc4LjUzMTY5NTQ4ODg1NDYxIEEzMCAzMCAwIDAgMSAyNS43Mjk0OTAxNjg3NTE1OCA2Ny42MzM1NTc1Njg3NzQyIiBmaWxsPSJub25lIiBzdHJva2U9IiNmYWMwOTAiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNMjUuNzI5NDkwMTY4NzUxNTggNjcuNjMzNTU3NTY4Nzc0MiBBMzAgMzAgMCAwIDEgMjUuNzI5NDkwMTY4NzUxNTc1IDMyLjM2NjQ0MjQzMTIyNTgwNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY3YzgxIiBzdHJva2Utd2lkdGg9IjEwIi8+PHBhdGggZD0iTTI1LjcyOTQ5MDE2ODc1MTU3NSAzMi4zNjY0NDI0MzEyMjU4MDYgQTMwIDMwIDAgMCAxIDU5LjI3MDUwOTgzMTI0ODQyIDIxLjQ2ODMwNDUxMTE0NTM5IiBmaWxsPSJub25lIiBzdHJva2U9IiNjMGY2ZDIiIHN0cm9rZS13aWR0aD0iMTAiLz48cGF0aCBkPSJNNTkuMjcwNTA5ODMxMjQ4NDIgMjEuNDY4MzA0NTExMTQ1MzkgQTMwIDMwIDAgMCAxIDgwIDQ5Ljk5OTk5OTk5OTk5OTk5IiBmaWxsPSJub25lIiBzdHJva2U9IiNkYWU0YmYiIHN0cm9rZS13aWR0aD0iMTAiLz48YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIgdGltZXM9IjA7MSIgZHVyPSIxIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPjwvZz48L3N2Zz4=" style="width:32px"> Przetwarzanie</div><div class="dataTables_scroll"><div class="dataTables_scrollHead" style="overflow: hidden; position: relative; border: 0px; width: 100%;"><div class="dataTables_scrollHeadInner" style="box-sizing: content-box; width: 1784px; padding-right: 0px;"><table class="rtable-table table table-striped dataTable no-footer" cellspacing="0" width="100%" aria-describedby="DataTables_Table_0_info" role="grid" style="margin-left: 0px; width: 1784px;"><thead>
+                
+                <tr role="row"><th class="dt-body-center dt-checkboxes-select-all sorting_disabled" rowspan="1" colspan="1" style="width: 13.4844px;" data-col="0" aria-label="
+                            
+                        "><input type="checkbox"></th><th class="text-left sorting_disabled" rowspan="1" colspan="1" style="width: 336.734px;" aria-label="
+                            Zamówienie
+                        ">
+                            Zamówienie
+                        </th><th class="sorting_desc" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 118.734px;" aria-sort="descending" aria-label="
+                            Data
+                        : activate to sort column ascending">
+                            Data
+                        </th><th style="min-width: 48px; max-width: 96px; width: 73.2344px;" class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="
+                            Status
+                        : activate to sort column ascending">
+                            Status
+                        </th><th style="min-width: 290px; max-width: 50%; width: 290.234px;" class="sorting" rowspan="1" colspan="1" aria-label="
+                            Dane produktu
+                        " aria-controls="DataTables_Table_0">
+                            Dane produktu
+                        </th><th style="min-width: 72px; max-width: 160px; width: 72.2344px;" class="sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="
+                            Dostawa
+                        : activate to sort column ascending">
+                            Dostawa
+                        </th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 336.734px;" aria-label="
+                            Dane wysyłki
+                        ">
+                            Dane wysyłki
+                        </th><th class="text-right sorting" tabindex="0" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 101.938px;" aria-label="
+                            Kwota
+                        : activate to sort column ascending">
+                            Kwota
+                        </th><th class="text-right sorting_disabled" rowspan="1" colspan="1" style="width: 163.922px;" aria-label="
+                            Akcje
+                        ">
+                            Akcje
+                        </th></tr>
+                </thead></table></div></div><div class="dataTables_scrollBody" style="position: relative; overflow: auto; width: 100%;"><table class="rtable-table table table-striped dataTable no-footer dt-checkboxes-select" cellspacing="0" width="100%" id="DataTables_Table_0" aria-describedby="DataTables_Table_0_info" role="grid" style="width: 100%;"><thead>
+                
+                <tr role="row" style="height: 0px;"><th class="dt-body-center dt-checkboxes-select-all sorting_disabled" rowspan="1" colspan="1" style="width: 13.4844px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" data-col="0" aria-label="
+                            
+                        "><div class="dataTables_sizing" style="height: 0px; overflow: hidden;"><input type="checkbox"></div></th><th class="text-left sorting_disabled" rowspan="1" colspan="1" style="width: 336.734px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="
+                            Zamówienie
+                        "><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Zamówienie
+                        </div></th><th class="sorting_desc" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 118.734px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-sort="descending" aria-label="
+                            Data
+                        : activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Data
+                        </div></th><th style="min-width: 48px; max-width: 96px; width: 73.2344px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="
+                            Status
+                        : activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Status
+                        </div></th><th style="min-width: 290px; max-width: 50%; width: 290.234px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" class="sorting" rowspan="1" colspan="1" aria-label="
+                            Dane produktu
+                        " aria-controls="DataTables_Table_0"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Dane produktu
+                        </div></th><th style="min-width: 72px; max-width: 160px; width: 72.2344px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" class="sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" aria-label="
+                            Dostawa
+                        : activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Dostawa
+                        </div></th><th class="sorting_disabled" rowspan="1" colspan="1" style="width: 336.734px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="
+                            Dane wysyłki
+                        "><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Dane wysyłki
+                        </div></th><th class="text-right sorting" aria-controls="DataTables_Table_0" rowspan="1" colspan="1" style="width: 101.938px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="
+                            Kwota
+                        : activate to sort column ascending"><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Kwota
+                        </div></th><th class="text-right sorting_disabled" rowspan="1" colspan="1" style="width: 163.922px; padding-top: 0px; padding-bottom: 0px; border-top-width: 0px; border-bottom-width: 0px; height: 0px;" aria-label="
+                            Akcje
+                        "><div class="dataTables_sizing" style="height: 0px; overflow: hidden;">
+                            Akcje
+                        </div></th></tr>
+                </thead>
+                
+                            <tbody><tr role="row" class="odd"><td class=" dt-body-center"><input type="checkbox" class="dt-checkboxes"></td><td class=" text-left"><a href="/order/order/detail/eM250506050/">eM250506050</a> <i title="Klient chce fakturę" class="flaticon2-paper"></i><span class="text-elipsis" style="max-width: 200px;">e21971d0-30a9-11f0-8f8c-47df4755ada0</span>electric_midas<br><span class="btn btn-label-success btn-success btn-pill btn-xs">Zapłacone</span><br>Przelewy24</td><td class="sorting_1">2025-05-14<br>11:58</td><td><span class="btn btn-label-warning btn-warning btn-pill btn-xs">Do wysłania</span></td><td><div style="overflow: hidden"><div class="thumb-48 float-left"><img loading="lazy" src="https://a.allegroimg.com/s128/11ee89/04fd4bc14d3d9c5da8b6970a2190" class="img-fluid"></div><div style="width: calc(100% - 60px); float: right;">ARCTIC GRILL 80mm osłona wentylatora FAN GRILL<br>Ilość: <strong>1</strong><br>EAN: 4895213701921<br>Cena jedn. 10.48&nbsp;PLN</div></div><div style="overflow: hidden; margin-top: 5px; padding-top: 5px; border-top: 1px solid #eee"><div class="thumb-48 float-left"><img loading="lazy" src="https://a.allegroimg.com/s128/117676/e0f507494cb5ac9ae2400c4f77b1" class="img-fluid"></div><div style="width: calc(100% - 60px); float: right;">ARCTIC P8 SLIM PWM PST wentylator do obudowy 8cm, 80x80mm<br>Ilość: <strong>1</strong><br>EAN: 4895213704199<br>Cena jedn. 27.99&nbsp;PLN</div></div></td><td>Inpost Paczkomaty<br>2025-05-14</td><td>Marek Bies<br>Pszczyńska 186<br>43-262 Radostowice<br>Polska<br>+48662592774<br><span class="text-elipsis" style="max-width: 200px;">6kcwxentsj+420a6cac3@allegromail.pl</span>drakston</td><td class=" text-right">49.96&nbsp;PLN</td><td class=" text-right"><a data-toggle="kt-tooltip" data-placement="left" data-data-container="body" title="" href="/warehouse/shipment/new-for-order/eM250506050/" class="btn  btn-primary mb-1 ml-1" data-original-title="Przygotuj przesyłkę"><i class="flaticon2 flaticon2-open-box pr-0 pl-0"></i> </a><a data-toggle="kt-tooltip" data-placement="left" data-data-container="body" title="" href="/order/packing-assistant/modal-init/?ids%5B0%5D=eM250506050" class="btn rajax btn-primary mb-1 ml-1" data-original-title="Pakuj"><i class="flaticon2 flaticon2-delivery-package pr-0 pl-0"></i> </a></td></tr><tr role="row" class="even"><td class=" dt-body-center"><input type="checkbox" class="dt-checkboxes"></td><td class=" text-left"><a href="/order/order/detail/eM250506049/">eM250506049</a> <i title="Klient chce fakturę" class="flaticon2-paper"></i><span class="text-elipsis" style="max-width: 200px;">e3002850-30a9-11f0-b00d-155921ee7fb4</span>electric_midas<br><span class="btn btn-label-success btn-success btn-pill btn-xs">Zapłacone</span><br>Przelewy24</td><td class="sorting_1">2025-05-14<br>11:58</td><td><span class="btn btn-label-warning btn-warning btn-pill btn-xs">Do wysłania</span></td><td><div style="overflow: hidden"><div class="thumb-48 float-left"><img loading="lazy" src="https://a.allegroimg.com/s128/115b60/d621e81640119ce54627b83469fb" class="img-fluid"></div><div style="width: calc(100% - 60px); float: right;">KAMBUKKA MANGO MANIAC 11-03043 750ml bidon kubek na wodę napój<br>Ilość: <strong>1</strong><br>EAN: 5407005144497<br>Cena jedn. 100.74&nbsp;PLN</div></div></td><td>Allegro DPD<br>2025-05-14</td><td>Anna Wójcik<br>Jastków 78a<br>21-002 Jastków<br>Polska<br>+48797790233<br><span class="text-elipsis" style="max-width: 200px;">guhsrxcni2+44d34aed2@allegromail.pl</span>Lukasz1717_2007</td><td class=" text-right">100.74&nbsp;PLN</td><td class=" text-right"><a data-toggle="kt-tooltip" data-placement="left" data-data-container="body" title="" href="/warehouse/shipment/new-for-order/eM250506049/" class="btn  btn-primary mb-1 ml-1" data-original-title="Przygotuj przesyłkę"><i class="flaticon2 flaticon2-open-box pr-0 pl-0"></i> </a><a data-toggle="kt-tooltip" data-placement="left" data-data-container="body" title="" href="/order/packing-assistant/modal-init/?ids%5B0%5D=eM250506049" class="btn rajax btn-primary mb-1 ml-1" data-original-title="Pakuj"><i class="flaticon2 flaticon2-delivery-package pr-0 pl-0"></i> </a></td></tr></tbody></table></div></div><div class="bottom"><div class="dataTables_length" id="DataTables_Table_0_length"><label>Pokaż <select name="DataTables_Table_0_length" aria-controls="DataTables_Table_0" class="custom-select custom-select-sm form-control form-control-sm"><option value="15">15</option><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="200">200</option><option value="500">500</option><option value="1000">1,000</option><option value="2000">2,000</option></select> wpisów</label></div><div class="dataTables_paginate paging_simple_numbers" id="DataTables_Table_0_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="DataTables_Table_0_previous"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="0" tabindex="0" class="page-link">Poprzednia</a></li><li class="paginate_button page-item active"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="1" tabindex="0" class="page-link">1</a></li><li class="paginate_button page-item next disabled" id="DataTables_Table_0_next"><a href="#" aria-controls="DataTables_Table_0" data-dt-idx="2" tabindex="0" class="page-link">Następna</a></li></ul></div></div></div>
+        </div>
+
+        <div class="rtable-noresults hidden">
+            <div class="alert alert-light alert-elevate fade show" role="alert">
+                <div class="alert-icon"><i class="flaticon-information kt-font-warning"></i></div>
+                <div class="alert-text">
+                    <strong>Brak zamówień dla wybranych filtrów.</strong><br>
+<br>Możliwe przyczyny:<br>
+<ul><li>brak zamówień do przetworzenia,</li><li>wyszukiwane zamówienie nie istnieje - użyj innych filtrów lub <a href="#rt">zobacz wszystkie</a>.</li></ul><br>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+            </div>
+            </div>
+            <div class="kt-portlet__foot">
+                        <span class="text-muted">Zamówienia domyślnie wyświetlane w tej zakładce można dostosować edytując statusy w Administracja &gt; Statusy zamówień.<br>
+Opcja masowego generowania etykiet dla zamówień dostępna w zakładce Magazyn i wysyłka &gt; <a href="/warehouse/order/">Zamówienia do wysłania </a>.<br>
+Instrukcja konfiguracji przesyłek w poradniku <a href="https://apilo.com/pl/help/modul-cennikow/"> Wysyłka zamówienia - generowanie etykiety kurierskiej </a>.
+</span>
+                </div>
+    </div>
